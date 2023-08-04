@@ -3,7 +3,7 @@
 
 ## 🖥️ projeto
 
-esse é um projeto Web de aprendizagem
+esse é um projeto Web de aprendizagem simples.
 
 ## 🚀 Tecnologias
 
