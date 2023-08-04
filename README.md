@@ -11,4 +11,4 @@ esse projeto foi desenvolvido em aulas na rocketseat-one com as seguintes tecnol
 
 - HTML
 - CSS
-- Github# projeto02
+- Github
